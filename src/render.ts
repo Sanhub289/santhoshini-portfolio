@@ -143,10 +143,6 @@ export function renderEducation(edu: Education[]): string {
           <div class="edu-deg">${e.degree}</div>
           <div class="edu-school">${e.school}</div>
         </div>
-        <div class="edu-meta">
-          <div class="edu-year">${e.year}</div>
-          ${e.gpa ? `<div class="edu-gpa">${e.gpa}</div>` : ''}
-        </div>
       </div>
     `
     )
@@ -181,7 +177,7 @@ export function renderContact(): string {
   return `
     <section id="contact">
       <div class="contact-headline reveal">Let's build systems<br>worth <span>depending on.</span></div>
-      <p class="contact-sub reveal">Open to senior engineer, tech lead, and cloud architect roles. Based in Lansing, MI.</p>
+      <p class="contact-sub reveal">Open to Full-Stack Developer roles. Based in Lansing, MI.</p>
       <div class="contact-links reveal">
         <a href="mailto:vallakatlasanthoshini.official@gmail.com" class="contact-link">Email</a>
         <a href="https://www.linkedin.com/in/vsanthoshini/" class="contact-link" target="_blank">LinkedIn</a>

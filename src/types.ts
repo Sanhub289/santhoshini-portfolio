@@ -23,7 +23,6 @@ export interface Project {
 export interface Education {
   degree: string
   school: string
-
 }
 
 export interface Node2D {

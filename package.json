@@ -1,0 +1,16 @@
+{
+  "name": "santhoshini-portfolio",
+  "version": "1.0.0",
+  "description": "Santhoshini Vallakatla — Software Engineer Portfolio",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vite": "^5.2.0",
+    "gh-pages": "^6.1.1"
+  }
+}

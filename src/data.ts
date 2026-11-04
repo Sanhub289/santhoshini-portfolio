@@ -105,7 +105,7 @@ export const jobs: Job[] = [
     env: ['TypeScript', 'JavaScript', 'Node.js', 'AWS CDK', 'Lambda', 'Kinesis', 'Kubernetes', 'Docker', 'Redis', 'Jenkins', 'Prometheus', 'Grafana'],
   },
   {
-    period: 'Dec 2024 – Apr 2025',
+    period: 'Dec 2023 – Apr 2025',
     company: 'Nomura',
     role: 'Full Stack Developer',
     client: 'Financial Services · Global Investment Bank',
@@ -117,7 +117,7 @@ export const jobs: Job[] = [
     env: ['Java', 'Springboot', 'Node.js', 'JavaScript', 'REST APIs', 'Oracle', 'Azure SQL', 'AKS'],
   },
   {
-    period: 'Apr 2019 – Nov 2022',
+    period: 'March 2021 – Nov 2022',
     company: 'Texas Review',
     role: 'Developer',
     client: 'EdTech · Web Application Development',

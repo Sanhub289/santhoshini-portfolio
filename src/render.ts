@@ -177,7 +177,7 @@ export function renderContact(): string {
   return `
     <section id="contact">
       <div class="contact-headline reveal">Let's build systems<br>worth <span>depending on.</span></div>
-      <p class="contact-sub reveal">Open to Full-Stack Developer roles. Based in Lansing, MI.</p>
+      <p class="contact-sub reveal">Open to Full-Stack Developer roles. Based in Manville, NJ.</p>
       <div class="contact-links reveal">
         <a href="mailto:vallakatlasanthoshini.official@gmail.com" class="contact-link">Email</a>
         <a href="https://www.linkedin.com/in/vsanthoshini/" class="contact-link" target="_blank">LinkedIn</a>
@@ -185,7 +185,7 @@ export function renderContact(): string {
       </div>
     </section>
     <footer>
-      <span>© 2025 Santhoshini Vallakatla · Lansing, MI</span>
+      <span>© 2025 Santhoshini Vallakatla · Manville, NJ</span>
       <span>AWS Certified Solutions Architect · Software Engineer</span>
     </footer>
   `

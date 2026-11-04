@@ -30,7 +30,7 @@ export function renderHero(photoSrc: string): string {
           </p>
           <div class="hero-cta">
             <a href="#experience" class="btn btn-primary">View Experience</a>
-            <a href="mailto:vallakatlasanthoshini.official@gmail.com" class="btn btn-ghost">Get in Touch</a>
+            <a href="mailto:santhoshini.hub@gmail.com" class="btn btn-ghost">Get in Touch</a>
           </div>
           <div class="hero-stats">
             <div class="h-stat"><div class="h-stat-n">5+</div><div class="h-stat-l">Years building</div></div>
